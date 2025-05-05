@@ -2,14 +2,13 @@
 
 ## Answers
 
-**Name:**_________________________
-**Name:**_________________________
+**Name:**__________Patrick Johnson_______________
+**Name:**___________n/a______________
 
 
 Place all written answers from `recitation-09.md` here for easier grading.
 
 
+2) Worst case work is O(|E|log|V|)
 
-- **2)**
-
-- **4)**
+4) Total work: O(n2log(n))
